@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+These are requirements of my mobile program
+
+server
+
+-Plant names and prices.
+
+-Reminder.
+
+
+client
+
+-To discover plants.
+
+-Will be able to create their own collection.
+
+-Can buy plants.
+
+-Will be able to learn about the care of plants.
+
+
+
 <!--
 **mu-se373-190704002/mu-se373-190704002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
